@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Students>
+    <Student>
+        <ID>001</ID>
+        <Name>Nguyen Van A</Name>
+        <YearOfBirth>2000</YearOfBirth>
+        <Class>CNTT1</Class>
+        <Gender>Male</Gender>
+    </Student>
+    <Student>
+        <ID>002</ID>
+        <Name>Tran Thi B</Name>
+        <YearOfBirth>2001</YearOfBirth>
+        <Class>CNTT2</Class>
+        <Gender>Female</Gender>
+    </Student>
+    <Student>
+        <ID>003</ID>
+        <Name>Le Van C</Name>
+        <YearOfBirth>2000</YearOfBirth>
+        <Class>CNTT1</Class>
+        <Gender>Male</Gender>
+    </Student>
+</Students>
